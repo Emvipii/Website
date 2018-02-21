@@ -1,0 +1,31 @@
+
+body {
+	background-color: black
+}
+
+main {
+	padding:0 5%;
+	background-color: white;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 100vh;
+	text-align:center;
+	font-size:larger;
+}
+h1 {font-family: 'Joti One', cursive;}
+h2{font-family: 'Joti One', cursive;}
+h3{font-family: 'Joti One', cursive;}
+p{font-family: 'Joti One', cursive;}
+li{font-family: 'Joti One', cursive;}
+
+img#overwatch{
+	width:100%;
+}
+img#TF2{
+	width:100%;
+}
+img#noschool{
+		width:100%;
+
+}
+
